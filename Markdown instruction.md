@@ -29,6 +29,10 @@
 
 ## Ссылки
 
+[Гитбрэнчинг](https://learngitbranching.js.org/?locale=ru_RU&=)
+
+[Гитхаб](https://github.com/)
+
 ## Работа с таблицами
 
 ## Цитаты
